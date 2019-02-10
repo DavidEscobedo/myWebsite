@@ -1,0 +1,60 @@
+html{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+	height: 100%;
+}
+
+header {
+	text-align: center;
+}
+
+#header {
+	background-image: url(header.jpg);
+	height: 100%;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#header img {
+	display: block;
+	width: 1280px;
+	height: 960px;
+	
+}
+
+#body {
+	
+	height: 100%;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#body img {
+	width: 1280px;
+	height: 960px;
+	
+}
+
+nav{
+	text-align: center;
+}
+
+h1 {
+	font-family: Comic Sans MS;
+	font-size: 90px;
+	color: white;
+}
+
+footer {
+	text-align: center;
+}
+
+#footer img {
+	width: 100px;
+	height: 100px;
+}
